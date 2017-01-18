@@ -1,14 +1,21 @@
 /*jshint esversion: 6 */
 
 function solve(args) {
-    let totalWheels = +args[0];
-    car = 4; truck = 10; trikes = 3;
-    let count = 0;
+    var s = +args[0],
+        i,
+        j,
+        k,
+        answer = 0;
 
-    while(!totalWheels <= 0)
-    {
-        
+    for (i = 0 ; i <= (s/10); i += 1) {
+        for (j = 0 ; j <= (s/4); j += 1) {
+            for (k = 0 ; k <= (s/3) ; k += 1) {
+                if (( (i * 10) + (j * 4) + (k * 3)) === s) {
+                    answer += 1;
+                }
+            }
+        }
     }
-    // Your solution here
-    console.log(count);
+
+    return answer;
 }
