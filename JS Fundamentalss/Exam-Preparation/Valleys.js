@@ -15,7 +15,7 @@ function solve(args) {
     return false;
   }
 
-  let peaks = [];
+  let peaks = [];   
   numbers.forEach(function(number, ind) {
     if(isPeak(ind)) {
       peaks.push(ind);
