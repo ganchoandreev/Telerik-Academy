@@ -1,8 +1,0 @@
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\PointTask\bin\Debug\PointTask.exe.config
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\PointTask\bin\Debug\PointTask.exe
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\PointTask\bin\Debug\PointTask.pdb
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\PointTask\bin\Debug\AtributeTask.dll
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\PointTask\bin\Debug\AtributeTask.pdb
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\PointTask\obj\Debug\PointTask.csprojResolveAssemblyReference.cache
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\PointTask\obj\Debug\PointTask.exe
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\PointTask\obj\Debug\PointTask.pdb

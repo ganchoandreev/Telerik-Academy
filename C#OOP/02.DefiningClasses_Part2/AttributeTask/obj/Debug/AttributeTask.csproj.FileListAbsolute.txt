@@ -1,6 +1,0 @@
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\AttributeTask\bin\Debug\AtributeTask.dll.config
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\AttributeTask\bin\Debug\AtributeTask.dll
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\AttributeTask\bin\Debug\AtributeTask.pdb
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\AttributeTask\obj\Debug\AttributeTask.csprojResolveAssemblyReference.cache
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\AttributeTask\obj\Debug\AtributeTask.dll
-C:\Users\Gancho Andreev\Desktop\js\TelerikAcademy_Homeworks-master\C#OOP\02.DefiningClasses_Part2\AttributeTask\obj\Debug\AtributeTask.pdb
